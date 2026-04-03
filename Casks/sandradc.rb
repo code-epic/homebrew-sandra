@@ -1,9 +1,9 @@
 cask "sandradc" do
-  version "0.1.3"
-  sha256 "b4aa378b2059f400a00ccf0fe9bc37f5cf3485c94fcb66ff6524948129ca51c4" # Lee la nota abajo
+  version "0.1.5"
+  sha256 "70e92969802bf3ac8b63383b0105ef3462bf8213976953b58bb02835614ece37" # Lee la nota abajo
 
   # Esta es la ruta exacta que proporcionaste
-  url "https://github.com/code-epic/sandra-desktop-container/releases/download/app-v0.1.3/SandraDC_0.1.3_universal.dmg"
+  url "https://github.com/code-epic/sandra-desktop-container/releases/download/app-v0.1.5/SandraDC_0.1.5_universal.dmg"
   name "SandraDC"
   desc "Sandra Desktop Container"
   homepage "https://github.com/code-epic/sandra-desktop-container"
